@@ -1,0 +1,260 @@
+:root {
+  --primary-font-family: "Roboto", sans-serif;
+  --secondary-font-family: "Raleway", sans-serif;
+  --accent-color: #2196f3;
+  --primari-text-color-theme-ligth: #212121;
+  --secondary-text-color-theme-light: #757575;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
+.logo-color {
+  color: #000000;
+}
+.nav-list-link {
+  font-family: var(--primary-font-family)
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+
+  color: #212121;
+}
+
+.navigation-list :hover,
+.navigation-list :focus {
+  color: var(--accent-color);
+}
+
+.active-page {
+    color: var(--accent-color);
+}
+.contact-info {
+  font-family: var(--primary-font-family)
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+
+  color: var(--secondary-text-color-theme-light)
+}
+.contact :hover,
+.contact :focus {
+  color: var(--accent-color);
+}
+
+.hero {
+  font-family: var(--primary-font-family)
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  /* or 136% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  background: #2f303a;
+}
+
+.modal-btn {
+  font-family: var(--primary-font-family)
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+
+  color: #ffffff;
+  background: var(--accent-color);
+}
+
+.benefits {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: var(--primari-text-color-theme-ligth)
+}
+
+.description-benefits {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: var(--secondary-text-color-theme-light)
+}
+
+.heading {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.16;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: var(--primari-text-color-theme-ligth)
+
+}
+
+.team-card {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: var(--primari-text-color-theme-ligth)
+
+}
+
+.position {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: var(--secondary-text-color-theme-light)
+}
+
+.section-team {
+    background: #F5F4FA;
+}
+
+.footer-section {
+    background: #2F303A;
+
+}
+.logo-footer {
+font-family: "Raleway", sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+}
+.second-logo-color {
+  color: #ffffff;
+  }
+  
+.contacts-footer {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+}
+
+.contacts-map {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+
+
+.modal-btn-whithe {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+
+}
+
+.modal-btn-whithe:hover,
+.modal-btn-whithe :focus {
+ background: #2196F3;}
+.modal-btn-whithe:hover,
+.modal-btn-whithe :focus {
+    color: #ffffff
+}
+
+ font-family:#ffffff
+}
+
+
+.progects-names {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 2;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.icon-description {
+font-family: var(--primary-font-family)
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.87;
+
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+
+
+
+
+
+
+
